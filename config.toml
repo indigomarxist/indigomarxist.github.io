@@ -1,8 +1,8 @@
 baseURL = 'https://indigomarxist.github.io'
 languageCode = 'en-us'
 title = 'indigomarxist'
-theme = 'smol'
-copyright = 'indigomarxist'
+theme = 'blank'
+# copyright = 'indigomarxist'
 
 # Parameters
 [params]
