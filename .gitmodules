@@ -1,5 +1,5 @@
 [submodule "themes/themes/smol"]
-	path = themes/blank
+	path = themes/smol
 	url = https://github.com/vimux/blank
 [submodule "themes/themes/etch"]
 	path = themes/themes/etch
