@@ -4,6 +4,7 @@
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
+    <link rel="icon" type="image/png" href="/favicon.png" />
     <title>{{ if not .IsHome }}{{ .Title }} | {{ end }}{{ .Site.Title }}</title>
 
     <link
@@ -22,7 +23,6 @@
     />
 
     <link rel="stylesheet" href="/css/style.css" type="text/css" media="all" />
-    <link rel="icon" type="image/png" href="favicon.png" />
 
     {{ with .OutputFormats.Get "rss" -}} {{ printf `
     <link rel="%s" type="%s" href="%s" title="%s" />
@@ -30,6 +30,9 @@
   </head>
 
   <body>
+    <a href="https://indigomarxist.github.io/">
+      <img src="/redrune.png" alt="osrs"
+    /></a>
     {{ partial "nav.html" . }}
 
     <main class="content"></main>
