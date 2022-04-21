@@ -1,6 +1,6 @@
-[submodule "themes/themes/smol"]
-	path = themes/smol
-	url = https://github.com/vimux/blank
+[submodule "themes/themes/indigo"]
+	path = themes/indigo
+	; url = https://github.com/vimux/blank
 [submodule "themes/themes/etch"]
 	path = themes/themes/etch
 	url = https://github.com/LukasJoswiak/etch.git
