@@ -1,5 +1,16 @@
-baseURL = 'https://indigomarxist.github.io'
-languageCode = 'en-us'
-title = 'indigomarxist'
-theme = 'blank'
+baseURL = "https://indigomarxist.github.io"
+title = "indigomarxist"
+theme = "indigo"
 
+[menu]
+  [[menu.main]]
+    identifier = "posts"
+    name = "posts"
+    url = "/posts"
+    weight = 10
+
+  [[menu.main]]
+    identifier = "about"
+    name = "about"
+    url = "/about"
+    weight = 20
