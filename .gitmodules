@@ -1,10 +1,10 @@
 [submodule "themes/indigo"]
 	path = themes/indigo
 	; url = https://github.com/vimux/blank
-[submodule "themes/etch"]
-	path = themes/etch
-	url = https://github.com/LukasJoswiak/etch
-[submodule "themes/smol"]
-	path = themes/themes/smol
-	url = https://github.com/colorchestra/smol
-
+; [submodule "themes/etch"]
+; 	path = themes/etch
+; 	url = https://github.com/LukasJoswiak/etch
+; [submodule "themes/smol"]
+; 	path = themes/themes/smol
+; 	url = https://github.com/colorchestra/smol
+;
