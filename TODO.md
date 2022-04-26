@@ -8,3 +8,4 @@
 - intro texts
 - pamphlets
 - logo / icon
+- make posts + about stack
