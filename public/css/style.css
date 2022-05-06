@@ -1,13 +1,15 @@
 :root {
-  --background-color: #fff;
-  --text-color: #111;
+  --background-color: #c9cbff;
+  --text-color: #1a1826;
+  --link-color: #96cdfb;
 }
 
 /* adds dark mode */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #282b36;
-    --text-color: #e8e6e3;
+    --background-color: #302d41;
+    --text-color: #d9e0ee;
+    --link-color: #96cdfb;
   }
 }
 /* LAYOUT */
@@ -52,6 +54,7 @@ h3 {
 
 a {
   font-family: "Space Mono";
+  color: var(--link-color);
   /* color: #7e21d4; */
 }
 
