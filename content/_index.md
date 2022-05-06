@@ -4,7 +4,7 @@ title: "home"
 
 # essays written from a marxist perspective.
 
-- free of FAANG, bloat, and spyware, and unnecessary dependencies
+- free of FAANG, bloat, spyware, and unnecessary dependencies
 - all posts are currently from
   [dessalines/essays](https://github.com/dessalines/essays)
 - theme inspired by
