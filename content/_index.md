@@ -7,6 +7,6 @@ title: "home"
 - free of FAANG, bloat, and spyware, and unnecessary dependencies
 - all posts are currently from
   [dessalines/essays](https://github.com/dessalines/essays)
-- themed with
+- theme inspired by
   [catppuccin](https://github.com/catppuccin/catppuccin)
 - [open source](https://github.com/indigomarxist/indigomarxist.github.io)
