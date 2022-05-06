@@ -8,7 +8,7 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --background-color: #302d41;
-    --text-color: #d9e0ee;
+    --text-color: #f2cdcd;
     --link-color: #96cdfb;
   }
 }
@@ -54,8 +54,18 @@ h3 {
 
 a {
   font-family: "Space Mono";
+}
+
+a:link {
   color: var(--link-color);
-  /* color: #7e21d4; */
+}
+
+a:visited {
+  color: #ddb6f2;
+}
+
+a:hover {
+  color: #f28fad;
 }
 
 p {
