@@ -1,6 +1,6 @@
 :root {
   --background-color: #ffffff;
-  --text-color: #575268;
+  --text-color: #302d41;
   --link-color: #96cdfb;
 }
 
@@ -8,8 +8,11 @@
 @media (prefers-color-scheme: dark) {
   :root {
     --background-color: #302d41;
-    --text-color: #f2cdcd;
+    --text-color: #f5e0dc;
+    /* --text-color: #c9cbff; */
+
     --link-color: #96cdfb;
+    --title: #f28fad;
   }
 }
 /* LAYOUT */
@@ -42,6 +45,7 @@ body {
 
 h1 {
   font-family: "Space Mono";
+  color: var(--title);
 }
 
 h2 {

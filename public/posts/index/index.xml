@@ -1,21 +1,11 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>home on indigomarxist</title>
-    <link>https://indigomarxist.github.io/</link>
-    <description>Recent content in home on indigomarxist</description>
+    <title>Posts on indigomarxist</title>
+    <link>https://indigomarxist.github.io/posts/</link>
+    <description>Recent content in Posts on indigomarxist</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 17 May 2022 23:10:16 -0600</lastBuildDate><atom:link href="https://indigomarxist.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Vimwiki</title>
-      <link>https://indigomarxist.github.io/posts/vimwiki/</link>
-      <pubDate>Tue, 17 May 2022 23:10:16 -0600</pubDate>
-      
-      <guid>https://indigomarxist.github.io/posts/vimwiki/</guid>
-      <description> todo &amp;gt; pymail ⠀⠀⠀⢠⣐⣒⣀⣒⣂⡠⠄⢀ marx ⠀⠀⠀⠀⠀⠀⠀⠈⠉⣛⠶⢌⡐⢄⡀ lenin ⠀⠀⠀⠀⠀⠀⣠⣴⣿⡿⠃⠀⠙⢦⡙⠦⡀ mao ⠀⠀⠀⣠⣴⣿⣿⣿⠟⠁⠀⠀⠀⠀⢱⡄⢡ definitions ⠀⠰⣿⣿⣿⠿⣏⠩⣄⠀⠀⠀⠀⠀⢸⡿⠀⠂⠀socialism faq ⠀⠀⠈⠛⠁⠀⠈⢮⣪⢷⡀⠀⠀⣠⡿⠁⡜ thoughts ⠀⠀⠀⠀⠀⡔⠒⣶⡿⣷⢝⢖⠚⢉⣀⠞⠁ soviet democracy ⠀⢠⡤⣤⣿⣷⡏⠉⠁⠙⢕⢍⢻⣋⠥⡄⠀⠀⠀ ⣰⣏⢿⣋⣥⡉⢢⠀⠀⠀⢀⠏⢡⣌⡲⢻⣆⠀⠀ ⡷⣈⣲⣿⡟⠁⠘⡇⠀⠀⡆⠀⢟⣾⡦⣨⠼⡀⠀ ⣷⣧⣿⠏⠑⠀⠀⣥⡀⠀⣷⠀⠀⠏⢺⡧⢾⣇⠀ ⠈⠉⠉⠛⢲⠄⠀⠀⢐⠔⠀⠑⠀⡄⠔⠑⢍⠗⠃ ⠀⠀⠀⠀⠀⠱⡀⡠⠊⠀⠀⢰⡑⠁⠀⠀⠀⠀⠀ ⠀⠀⠀⠀⠀⠀⠜⠁⠀⠀⠀⡜⢤⠀⠀⠀⠀⠀⠀ ⠀⠀⢀.⠠:⠠⢀⠀⠀⠀⠀⠀:⢀⠀⠀⠀
- </description>
-    </item>
-    
+    <lastBuildDate>Wed, 20 Apr 2022 20:10:11 -0600</lastBuildDate><atom:link href="https://indigomarxist.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Burn the Constitution</title>
       <link>https://indigomarxist.github.io/posts/burn-the-constitution/</link>
@@ -63,15 +53,6 @@ Quality  Streaming servers can never have the same quality as local music / vide
       <description>Socialism FAQ The Bullshit asymmetry principle, or Brandolini&amp;rsquo;s law:
  The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
  Contents  Socialism FAQ  Didn&amp;rsquo;t communism fail? It works in theory but not in practice. What about human nature? Schools of thought On Ultra-leftism / Left-Communism Did economic planning work? Who would sweep the floors under communism? What about cooperatives? What about democracy?</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://indigomarxist.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://indigomarxist.github.io/about/</guid>
-      <description> a collection of essays, resources, and content with a focus on marxist thought and online independance. themed with catppuccin  </description>
     </item>
     
   </channel>
