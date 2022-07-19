@@ -1,8 +1,12 @@
 </main>
-	
+
 <footer>
-	<p>{{ dateFormat "2006" now }} <br> {{ .Site.Title }}</p>
+  <a href="{{ .Site.BaseURL }}">{{ .Site.BaseURL }}</a><br><br>
+  <a href="/index.xml"><img src="/rss.svg" style="max-height:1.5em" alt="rss feed"
+      title="subscribe via rss for updates."></a>
+  <p>{{ dateFormat "2006" now }} <br> {{ .Site.Title }}</p>
 </footer>
 
 </body>
+
 </html>
