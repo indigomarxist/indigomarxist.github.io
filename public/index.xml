@@ -1,68 +1,35 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>home on indigomarxist</title>
-    <link>https://indigomarxist.github.io/</link>
-    <description>Recent content in home on indigomarxist</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 20 Apr 2022 20:10:11 -0600</lastBuildDate><atom:link href="https://indigomarxist.github.io/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Burn the Constitution</title>
-      <link>https://indigomarxist.github.io/posts/burn-the-constitution/</link>
-      <pubDate>Wed, 20 Apr 2022 20:10:11 -0600</pubDate>
-      
-      <guid>https://indigomarxist.github.io/posts/burn-the-constitution/</guid>
-      <description>Burn the Constitution To emphasize the commonality of the 99 percent, to declare deep enmity of interest with the 1 percent, is to do exactly what the governments of the United States, and the wealthy elite allied to them-from the Founding Fathers to now-have tried their best to prevent. Madison feared a &amp;ldquo;majority faction&amp;rdquo; and hoped the new Constitution would control it. He and his colleagues began the Preamble to the Constitution with the words &amp;ldquo;We the people &amp;hellip;,&amp;rdquo; pretending that the new government stood for everyone, and hoping that this myth, accepted as fact, would ensure &amp;ldquo;domestic tranquility.</description>
-    </item>
+	<title>indigomarxist</title>
+	<link>https://indigomarxist.github.io/</link>
+	<description>Recent content in home on indigomarxist</description>
+	<generator>Hugo -- gohugo.io</generator>
+	<lastBuildDate>Wed, 20 Apr 2022 20:10:11 -0600</lastBuildDate>
     
-    <item>
-      <title>How to Torrent</title>
-      <link>https://indigomarxist.github.io/posts/how-to-torrent/</link>
-      <pubDate>Wed, 20 Apr 2022 20:08:20 -0600</pubDate>
-      
-      <guid>https://indigomarxist.github.io/posts/how-to-torrent/</guid>
-      <description>How to torrent Why Bittorrent? Most popular filesharing method worldwide. Shares files in a web, instead of single uploader. Can find most movies, shows, music, and books, for free. Once seeded, impossible to take down. Get a VPN ISPs watch what you download. Hides your traffic from your ISP. Protects you using tunneling and encryption. Find a Torrent Client qBittorrent Deluge Flud (Android) Find a Torrent Search Engine Use Google Find a Media Player VLC Next steps Get a media server like Plex for a Netflix-like experience.</description>
-    </item>
-    
-    <item>
-      <title>Nietzsche</title>
-      <link>https://indigomarxist.github.io/posts/nietzsche/</link>
-      <pubDate>Wed, 20 Apr 2022 20:04:55 -0600</pubDate>
-      
-      <guid>https://indigomarxist.github.io/posts/nietzsche/</guid>
-      <description>Why Nietzsche is a terrible role model for the left Instead of writing up a longer, meandering argument against Nietzsche&amp;rsquo;s philosophy, I found that his quotations themselves make the strongest argument for why he makes a terrible role model for the left.
-The core concepts of his philosophy, Masculine virtue and elitism, the Superman, Will to Power, worship of warrior heroes and militarism, Anti-democracy, Anti-Socialism, Reverence for hereditary Aristocracy (whether Teutonic, or Roman), Anti-feminism, Anti-Christianity / Buddism, Biological determinism, are shown through his quotes.</description>
-    </item>
-    
-    <item>
-      <title>Why Torrents</title>
-      <link>https://indigomarxist.github.io/posts/why-torrents/</link>
-      <pubDate>Wed, 20 Apr 2022 20:03:31 -0600</pubDate>
-      
-      <guid>https://indigomarxist.github.io/posts/why-torrents/</guid>
-      <description>Why Torrents are better than streaming servers as a self hosted solution. Instead of using plex or emby, consider using a dedicated torrent server, and torrent clients elsewhere.
-Quality Streaming servers can never have the same quality as local music / video players. Video streaming servers like plex or emby, often have to transcode / convert the video to lower-quality formats. Native video players can handle x265. Audio streaming servers often can&amp;rsquo;t handle high quality formats like flac, whereas local media players can handle these easily.</description>
-    </item>
-    
-    <item>
-      <title>Socialism Faq</title>
-      <link>https://indigomarxist.github.io/posts/socialism-faq/</link>
-      <pubDate>Wed, 20 Apr 2022 20:00:39 -0600</pubDate>
-      
-      <guid>https://indigomarxist.github.io/posts/socialism-faq/</guid>
-      <description>Socialism FAQ The Bullshit asymmetry principle, or Brandolini&amp;rsquo;s law:
-The amount of energy needed to refute bullshit is an order of magnitude bigger than to produce it.
-Contents Socialism FAQ Didn&amp;rsquo;t communism fail? It works in theory but not in practice. What about human nature? Schools of thought On Ultra-leftism / Left-Communism Did economic planning work? Who would sweep the floors under communism? What about cooperatives? What about democracy? Can&amp;rsquo;t voting fix our problems?</description>
-    </item>
-    
-    <item>
-      <title>about</title>
-      <link>https://indigomarxist.github.io/about/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://indigomarxist.github.io/about/</guid>
-      <description> a collection of essays, resources, and content with a focus on marxist thought and online independance. themed with catppuccin </description>
-    </item>
-    
-  </channel>
+        <atom:link href="https://indigomarxist.github.io/index.xml" rel="self" type="application/rss+xml" />
+	
+	
+	<item>
+		<title>Posts</title>
+		<link>https://indigomarxist.github.io/posts/</link>
+		<pubDate>Wed, 20 Apr 2022 20:10:11 -0600</pubDate>
+		
+		<guid>https://indigomarxist.github.io/posts/</guid>
+		<description></description>
+	</item>
+	
+	<item>
+		<title>about</title>
+		<link>https://indigomarxist.github.io/about/</link>
+		<pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+		
+		<guid>https://indigomarxist.github.io/about/</guid>
+		<description>&lt;ul&gt;
+&lt;li&gt;a collection of essays, resources, and content with a focus on marxist thought and digital independance.&lt;/li&gt;
+&lt;li&gt;themed with &lt;a href=&#34;https://github.com/catppuccin/catppuccin&#34;&gt;catppuccin&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+	</item>
+	
+	</channel>
 </rss>
