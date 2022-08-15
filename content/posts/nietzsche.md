@@ -4,7 +4,20 @@ date: 2022-04-20T20:04:55-06:00
 draft: false
 ---
 
+{{< raw >}}
+<a href="/pdf/nietzsche.pdf"  download>
+pdf
+</a>
+<br>
+<br>
+{{</ raw >}}
+
+{{< raw >}}
+<img src="/img/nietzsche/nietzsche.jpg" style="width: 75%; border-radius: ;"/>
+{{</ raw >}}
+
 # Why Nietzsche is a terrible role model for the left
+
 
 Instead of writing up a longer, meandering argument against Nietzsche's philosophy, I found that his quotations themselves make the strongest argument for why he makes a terrible role model for the left.
 

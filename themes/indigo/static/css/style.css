@@ -8,7 +8,10 @@
 /* adds dark mode */
 @media (prefers-color-scheme: dark) {
   :root {
-    --background-color: #302d41;
+     
+    --background-color: #1e1e2e;
+    /* --background-color: #181825; */
+    /* --background-color: #11111b; */
     --text-color: #f5e0dc;
     /* --text-color: #c9cbff; */
 
