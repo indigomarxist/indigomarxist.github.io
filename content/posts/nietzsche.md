@@ -13,7 +13,7 @@ pdf
 {{</ raw >}}
 
 {{< raw >}}
-<img src="/img/nietzsche/nietzsche.jpg" style="width: 75%; border-radius: ;"/>
+<img src="/img/nietzsche/nietzsche.jpg" style="width: 75%;"/>
 {{</ raw >}}
 
 # Why Nietzsche is a terrible role model for the left
