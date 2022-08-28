@@ -4,6 +4,14 @@ date: 2022-04-20T20:10:11-06:00
 draft: false
 ---
 
+{{< raw >}}
+<a href="/pdf/burn-the-constitution.pdf"  download>
+pdf
+</a>
+<br>
+<br>
+{{</ raw >}}
+
 # Burn the Constitution
 
 To emphasize the commonality
@@ -56,5 +64,5 @@ Things that were legal, and enforced by the police:
 
 # Resources
 
-- http://www.historyisaweapon.com/defcon1/zinnkin5.html
+- <http://www.historyisaweapon.com/defcon1/zinnkin5.html>
 - ​

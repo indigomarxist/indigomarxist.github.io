@@ -1,7 +1,6 @@
 ---
-title: "Nietzsche"
-date: 2022-04-20T20:04:55-06:00
-draft: false
+title: "nietzsche"
+date: 2022-08-28T02:04:11-06:00
 ---
 
 {{< raw >}}
@@ -13,11 +12,19 @@ pdf
 {{</ raw >}}
 
 {{< raw >}}
-<img src="/img/nietzsche/nietzsche.jpg" style="width: 75%;"/>
+<style>
+
+.ni {
+border-radius: 25px;
+width: 75%;
+}
+
+</style>
+
+<img src="/img/nietzsche/nietzsche.jpg" class="ni" />
 {{</ raw >}}
 
 # Why Nietzsche is a terrible role model for the left
-
 
 Instead of writing up a longer, meandering argument against Nietzsche's philosophy, I found that his quotations themselves make the strongest argument for why he makes a terrible role model for the left.
 
@@ -81,38 +88,4 @@ It shouldn't be surprising that this proto-incel, lover of masculinity and war, 
 
 > Socialism--as the logical conclusion of the tyranny of the least and the d\*\*\*est, i.e., those who are superficial, envious, and three-quarters actors--is indeed entailed by "modern ideas" and their latent anarchism; but in the tepid air of democratic well-being the capacity to reach conclusions, or to finish, weakens. One follows--but one no longer sees what follows. Therefore socialism is on the whole a hopeless and sour affair; and nothing offers a more amusing spectacle than the contrast between the poisonous and desperate faces cut by today's socialists--and to what wretched and pinched feelings their style bears witness!--and the harmless lambs' happiness of their hopes and desiderata.
 >
-> [...] In any case, even as a restless mole under the soil of a society that wallows in st\*\*\*ity, socialism will be able to be something useful and therapeutic: it delays "peace on earth" and the total mollification of the democratic herd animal; it forces the Europeans to regain spirit, namely cunning and cautious care, not to abjure manly and warlike virtues altogether, and to retain some remnant of spirit, of clarity, sobriety, and coldness of the spirit--it protects Europe for the time being from the marasmus femininus that threatens it.
-
-> How can the superman arise in such a soil [democracy]? And how can a nation become great when its greatest men lie unused, discouraged, perhaps unknown? Such a society loses character; imitation is horizontal instead of vertical; not the superior man but the majority man becomes the ideal and the model; everybody comes to resemble everybody else; even the sexes approximate - the men become women and the women become men.
-
-> Europe is threatened with a new Buddhism. [...] The whole of the morality of Europe is based upon the values which are useful to the herd.
-
-Railing against the Collectivism of Eastern philosophies:
-
-> The world has been Orientalized long enough; and men now yearn to be Hellenized.
-
-## Pro-war
-
-> A declaration of war on the masses by higher men is needed! … Everything that makes soft and effeminate, that serves the end of the people or the feminine, works in favor of universal suffrage, i.e. the domination of the inferior men. But we should take reprisal and bring this whole affair to light and the bar of judgment.
-
-> A herd of blond beasts of prey, a race of conquerors and masters, with military organizations, with the power to organize, unscrupulously placing their fearful paws upon a population perhaps vastly superior in numbers, ... this herd founded the State. The dream is dispelled which made the State begin with a contract. What has he to do with contracts who can command, who is master by nature, who comes on the scene with violence.
-
-> Freedom means that the manly instincts which delight in war and victory dominate over other instincts, for example, over those of "pleasure." The human being who has become free — and how much more the spirit who has become free — spits on the contemptible type of well-being dreamed of by shopkeepers, Christians, cows, females, Englishmen, and other democrats. The free man is a warrior.
-
-> A good war halloweth any cause.
-
-> I felt for the first time that the strongest, highest Will to Life does not find expression in a miserable struggle for existence, but in a Will to War, a Will to Power, a Will to Over-Power!
-
-> What is good? All that heightens the feeling of power in man, the will to power, power itself. What is bad? All that is born of weakness. What is happiness? The feeling that power is growing, that resistance is overcome.
-
-> Does anybody at last understand, will anybody understand what the Renaissance was? The transvaluation of Christian values, the attempt undertaken with all means, all instincts and all genius to make the _opposite_ values, the _noble_ values triumph. [...] Caesar Borgia as Pope. ... Do you understand me?
-
-> In contrast to all this, everyone ought to say to himself: ‘better to go abroad, to seek to become master in new and savage regions of the world and above all master over myself; to keep moving from place to place for just as long as any sign of slavery seems to threaten me; to shun neither adventure nor war and, if the worst should come to the worst, to be prepared for death: all this rather than further to endure this indecent servitude, rather than to go on becoming soured and malicious and conspiratorial!’ This would be the right attitude of mind: the workers of Europe ought henceforth to declare themselves as a class a human impossibility and not, as usually happens, only a somewhat harsh and inappropriate social arrangement; they ought to inaugurate within the European beehive an age of a great swarming-out such as has never been seen before, and through this act of free emigration in the grand manner to protest against the machine, against capital, and against the choice now threatening them of being compelled to become either the slave of the state or the slave of a party of disruption. Let Europe be relieved of a fourth part of its inhabitants!
-
-## Racism
-
-> What follows, then? That one had better put on gloves before reading the New Testament. The presence of so much filth makes it very advisable. One would as little choose early Christians for companions as Polish Jews: not that one need seek out an objection to them — neither has a pleasant smell.
-
-> Do I still have to add that in the entire New Testament there is only one solitary figure one is obliged to respect? Pilate, the Roman governor. To take a Jewish affair seriously — he cannot persuade himself to do that. One Jew more or less — what does it matter ?
-
-> Those races that cannot bear this philosophy are doomed; and those that regard it as the greatest blessing are destined to be the masters of the world.
+> [...] In any case, even as a restless mole under the soil of a society that wallows in st\*\*\*ity, socialism will be able to be something useful and therapeutic: it delays "peace on earth" and the total mollification of the democratic herd animal; it forces the Europeans to regain spirit, namely cunning and cautious care, not to abjure manly and warlike virtues altogether, and to retain some remnant of spirit, of clarity, sobriety, and coldness of the spirit--it protects Europe for the time being from the marasmus femininus that threate

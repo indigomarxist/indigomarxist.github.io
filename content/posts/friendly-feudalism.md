@@ -3,6 +3,13 @@ title: "friendly feudalism"
 date: 2022-08-16T06:22:40-06:00
 ---
 
+{{< raw >}}
+<a href="/pdf/friendly-feudalism.pdf"  download>
+pdf
+</a>
+<br>
+<br>
+{{</ raw >}}
 
 # Friendly Feudalism: The Tibet Myth (2007)
 
@@ -17,10 +24,10 @@ Updated and expanded version from January 2007.
 
 ## Contents
 
--   [For Lords and Lamas](#for-lords-and-lamas)
--   [Secularization vs. Spirituality](##secularization-vs-spirituality)
--   [Exit Feudal Theocracy](#exit-feudal-theocracy)
--   [References](#references)
+- [For Lords and Lamas](#for-lords-and-lamas)
+- [Secularization vs. Spirituality](##secularization-vs-spirituality)
+- [Exit Feudal Theocracy](#exit-feudal-theocracy)
+- [References](#references)
 
 ## For Lords and Lamas
 
@@ -799,29 +806,29 @@ feudal Tibet indeed may start looking a lot better than it actually was.
 
 ## References
 
--   Mick Brown, *The Dance of 17 Lives* (Bloomsbury 2004).
--   Erik D. Curren, *Buddha's Not Smiling: Uncovering Corruption at the
+- Mick Brown, *The Dance of 17 Lives* (Bloomsbury 2004).
+- Erik D. Curren, *Buddha's Not Smiling: Uncovering Corruption at the
     Heart of Tibetan Buddhism Today* (Alaya Press 2005)
--   Stuart Gelder and Roma Gelder, *The Timely Rain: Travels in New
+- Stuart Gelder and Roma Gelder, *The Timely Rain: Travels in New
     Tibet* (Monthly Review Press, 1964).
--   Melvyn C. Goldstein, *A History of Modern Tibet 1913-1951*
+- Melvyn C. Goldstein, *A History of Modern Tibet 1913-1951*
     (Berkeley: University of California Press, 1989).
--   Melvyn C. Goldstein, *The Snow Lion and the Dragon: China, Tibet,
+- Melvyn C. Goldstein, *The Snow Lion and the Dragon: China, Tibet,
     and the Dalai Lama* (University of California Press, 1995).
--   Felix Greene, *A Curtain of Ignorance* (Garden City, N.Y.:
+- Felix Greene, *A Curtain of Ignorance* (Garden City, N.Y.:
     Doubleday, 1961).
--   A. Tom Grunfeld, *The Making of Modern Tibet* rev. ed. (Armonk, N.Y.
+- A. Tom Grunfeld, *The Making of Modern Tibet* rev. ed. (Armonk, N.Y.
     and London: 1996).
--   Heinrich Harrer, *Return to Tibet* (New York: Schocken, 1985).
--   Pradyumna P. Karan, *The Changing Face of Tibet: The Impact of
+- Heinrich Harrer, *Return to Tibet* (New York: Schocken, 1985).
+- Pradyumna P. Karan, *The Changing Face of Tibet: The Impact of
     Chinese Communist Ideology on the Landscape* (Lexington, Kentucky:
     University Press of Kentucky, 1976).
--   Donald Lopez Jr., *Prisoners of Shangri-La: Tibetan Buddhism and the
+- Donald Lopez Jr., *Prisoners of Shangri-La: Tibetan Buddhism and the
     West* (Chicago and London: Chicago University Press, 1998).
--   Gaby Naher, Wrestling the Dragon (Rider 2004).
--   Anna Louise Strong, *Tibetan Interviews* (Peking: New World Press,
+- Gaby Naher, Wrestling the Dragon (Rider 2004).
+- Anna Louise Strong, *Tibetan Interviews* (Peking: New World Press,
     1959).
--   Lea Terhune, Karmapa of Tibet: The Politics of Reincarnation (Wisdom
+- Lea Terhune, Karmapa of Tibet: The Politics of Reincarnation (Wisdom
     Publications, 2004)
 
 [^1]: Mark Juergensmeyer, *Terror in the Mind of God*, (University of California Press, 2000).
